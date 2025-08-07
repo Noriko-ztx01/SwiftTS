@@ -177,9 +177,3 @@ SwiftTS
 
 
 
-## Citation
-If you find the code useful, please cite our paper. 
-```bibtex
-Pending.
-```
-
